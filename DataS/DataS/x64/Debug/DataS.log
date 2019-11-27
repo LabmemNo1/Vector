@@ -1,0 +1,6 @@
+﻿  Bubble Sort.cpp
+d:\data structrue\data-structrue\datas\datas\stack.h(18): warning C4838: 从“int”转换到“char”需要收缩转换
+d:\data structrue\data-structrue\datas\datas\stack.h(18): warning C4305: “初始化”: 从“int”到“char”截断
+d:\data structrue\data-structrue\datas\datas\stack.h(18): warning C4309: “初始化”: 截断常量值
+d:\data structrue\data-structrue\datas\datas\bubble sort.cpp(88): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  DataS.vcxproj -> D:\DATA STRUCTRUE\Data-structrue\DataS\x64\Debug\DataS.exe
